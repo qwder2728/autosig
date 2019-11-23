@@ -1,0 +1,18 @@
+{
+  "file_path": "./enterprise_728_base_190622_115600.ipa",
+  "p12_path": "./123456.p12",
+  "p12_pass": "123456",
+  "bundle_id": "com.cartty.supersign",
+  "dest_folder": "/var/auto_sign_dest",
+  "signing_identity": "iPhone Distribution: Cartty Mossier (2Z574963BX)",
+  "provision_name": "super_sign_provisioning",
+  "user_name": "kfycon@163.com",
+  "password": "Qainland0805",
+  "mq_queue_name": "resign_queue_1",
+  "mq_host": "23.91.101.176",
+  "mq_user": "admin",
+  "mq_pass": "123456",
+  "mq_port": 28672,
+  "mq_vhost": "/autosign",
+  "domain": "https://ddfly.jjfly.app"
+}
